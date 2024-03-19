@@ -26,4 +26,11 @@ footer {
 
 main {
     flex-grow: 1;
+
+    .card.movie-card {
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+    }
 }
